@@ -1,0 +1,3 @@
+from scrapy_con_middleware.scrapy_con_middleware.spiders.example_spider import execute_spider
+
+execute_spider()
